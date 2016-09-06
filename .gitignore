@@ -1,0 +1,6 @@
+vendor
+.idea/*
+node_modules/*
+app/css/main.css
+app/css/*.map
+build
